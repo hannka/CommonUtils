@@ -121,6 +121,6 @@ namespace Common.Utils
                 return input.ToLower();
             }
             return input;
-        }
+        } 
     }
 }
