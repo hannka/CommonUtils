@@ -55,6 +55,6 @@ namespace Common.Utils
                 dict.TryAdd<TKey, TValue>(item.Key, item.Value, isReplace);
             }
             return dict;
-        }
+        } 
     }
 }
